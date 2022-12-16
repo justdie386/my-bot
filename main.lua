@@ -32,4 +32,4 @@ client:on("slashCommand", function(interaction, command, args)
         end
         end
 end)
-client:run("Bot NzQxMzI4ODk4NTU3NzM5MTUw.G4ePEO.BhyMxdfC1b-h8kuT6MQKAnQoNX2aUc0G1BC4kQ")
+client:run("Bot *token, hehe*")
